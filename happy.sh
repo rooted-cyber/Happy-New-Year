@@ -1,3 +1,10 @@
+cd $PREFIX/bin
+if [ -e figlet ];then
+echo
+else
+pkg install figlet
+pip install lolcat
+fi
 Happy () {
 	figlet Happy New|lolcat
 	figlet 	Year|lolcat 
