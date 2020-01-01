@@ -24,6 +24,7 @@ else
 pkg install toilet
 clear
 fi
+clear
 Happy () {
 	figlet Happy New|lolcat
 	figlet 	Year|lolcat 
@@ -38,7 +39,25 @@ New
 }
 New () {
 printf "   	<<<===>>> Happy New Year 2020 <<<===>>> \n\n"|lolcat
-sleep 5
+printf "\n\n Happy new year 2020 for all friends from rootedcyber 🎉🎈🎈🎈🎈\n\n\n"|toilet -f term -F gay
+
+printf "\n\n2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+printf "2 O 2 O || 2 O 2 O || 2 O 2 O || 2 O 2 O\n"|lolcat
+printf "Happy new year 🎉🎈🎈🎈🎈\n\n"|lolcat
+
 Happy
 }
 Happy
